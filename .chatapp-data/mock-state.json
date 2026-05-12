@@ -1,0 +1,36 @@
+{
+  "rooms": [
+    {
+      "id": "star-melody-312",
+      "room_slug": "star-melody-312",
+      "passphrase": null,
+      "created_at": "2026-05-12T18:38:25.312Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "feef238b-1e90-41b9-b0ef-4238ebc5b582",
+      "room_id": "star-melody-312",
+      "sender_name": "yugen",
+      "content": "hieee",
+      "created_at": "2026-05-12T18:38:31.098Z",
+      "is_deleted": false
+    },
+    {
+      "id": "bdee522c-6268-4edc-95af-cd360485fe5c",
+      "room_id": "star-melody-312",
+      "sender_name": "yugen",
+      "content": "helloo",
+      "created_at": "2026-05-12T18:48:47.138Z",
+      "is_deleted": false
+    },
+    {
+      "id": "c3c5ca5d-a341-4c40-8604-a2775302088d",
+      "room_id": "star-melody-312",
+      "sender_name": "jass",
+      "content": "hiee",
+      "created_at": "2026-05-12T18:49:05.430Z",
+      "is_deleted": false
+    }
+  ]
+}
