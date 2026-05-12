@@ -221,7 +221,7 @@ export default function ChatRoom({ roomId }: ChatRoomProps) {
   const handleWallpaperChange = useCallback(
     async (newWallpaper: any) => {
       try {
-        if (!isSupabaseConfigured()) {
+        if (!isSupabaseConfigured) {
           const res = await fetch('/api/mock/rooms', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
